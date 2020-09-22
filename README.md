@@ -1,3 +1,1 @@
 # PYWorkshop
-
-# This is awsome
